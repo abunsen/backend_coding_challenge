@@ -1,4 +1,4 @@
-# NP
+# NePa
 This is a made-up project that mimics some of the real world features that we work on. The goal of this project is to give you an introduction to the kinds of problems you'll be solving on this project.
 
  - You should spend one hour on this.
