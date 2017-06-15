@@ -29,19 +29,13 @@ This is a made-up project that mimics some of the real world features that we wo
 ## Additional instructions
 
 ### Architecture
-- Language of your choice, but preferred options are: Ruby, Python, JS (in that order)
+- Python 2.7 or Python 3 required
 - Make sure your project is portable to another computer and list install dependencies in some way
 
 ### Run the script
 Your script should run when one of the following is executed via command line:
 ```
-$ ruby scrape.rb wyncode
-```
-```
 $ python scrape.py wyncode
-```
-```
-$ npm scrape wyncode
 ```
 
 
