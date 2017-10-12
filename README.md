@@ -4,13 +4,13 @@ This is a made-up project that mimics some of the real world features that we wo
  - You should spend one hour on this.
  - After the hour is up, please `push` all your changes to a branch called `{your-name}` here on github.
  - Be prepared to present your features and discuss your code during an in-person interview.
- 
+
  ## Features to implement
- 
- - [ ] Accepts a search term on the command line
- - [ ] Searches DuckDuckGo for given search term
- - [ ] Parses content of search result page
- - [ ] Returns parsed result in the following JSON format:
+
+ - [X] Accepts a search term on the command line
+ - [X] Searches DuckDuckGo for given search term
+ - [X] Parses content of search result page
+ - [+2.5/3] Returns parsed result in the following JSON format:
 
  ```js
  {
@@ -25,7 +25,7 @@ This is a made-up project that mimics some of the real world features that we wo
   ]
 }
  ```
- 
+
 ## Additional instructions
 
 ### Architecture
